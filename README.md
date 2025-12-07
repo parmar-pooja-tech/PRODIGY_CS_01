@@ -2,7 +2,7 @@
 
 # Task 01 – Implement Caesar Cipher
 <br>
-## Description
+
 Python program to encrypt and decrypt text using the Caesar Cipher algorithm. Users can input a message and a shift value to perform encryption and decryption.
 
 ## Skills Demonstrated
